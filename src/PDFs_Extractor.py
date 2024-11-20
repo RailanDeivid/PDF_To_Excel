@@ -43,3 +43,5 @@ df_raw.rename(
 
 # Remover colunas desnecessárias
 df_raw.drop(columns=[0,7], inplace=True)
+
+df_raw.to_excel('Boletim_de_Precos.xlsx', index=False)
