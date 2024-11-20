@@ -1,4 +1,4 @@
-# Extraindo dados de PDFs não estruturados com Python e Camelot. dados de PDFs não estruturados com Python e Camelot.
+# Extraindo dados de PDFs não estruturados com Python e Camelot.
 
 Este repositório contém uma solução desenvolvida em Python para extrair tabelas de PDFs não estruturados e convertê-las em DataFrames organizados usando a biblioteca Camelot.
 
