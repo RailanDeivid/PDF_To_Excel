@@ -2,7 +2,7 @@
 
 Este repositório contém uma solução desenvolvida em Python para extrair tabelas de PDFs não estruturados e convertê-las em DataFrames organizados usando a biblioteca Camelot.
 
-A ideia principal desse projeto é facilitar a extração automatizada de dados de documentos em PDF, especialmente aqueles que não seguem um formato estruturado e padronizado. Com essa abordagem, é possível realizar o processamento de forma mais eficiente e sem a necessidade de intervenção manual.
+A ideia principal desse tutorial é facilitar a extração automatizada de dados de documentos em PDF, especialmente aqueles que não seguem um formato estruturado e padronizado. Com essa abordagem, é possível realizar o processamento de forma mais eficiente e sem a necessidade de intervenção manual.
 
 ## Funcionalidades
 Extração de Tabelas: Utiliza o Camelot para detectar e extrair tabelas de PDFs, mesmo que as tabelas não estejam em formato completamente estruturado.
